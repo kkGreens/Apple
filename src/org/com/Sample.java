@@ -6,6 +6,10 @@ public class Sample {
 		System.out.println("Apple");
 	}
 	
+	public void m2() {
+		System.out.println("Fruits");
+	}
+	
 	public static void main(String[] args) {
 		
 		Sample s = new Sample();
