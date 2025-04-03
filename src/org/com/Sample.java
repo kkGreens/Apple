@@ -3,7 +3,7 @@ package org.com;
 public class Sample {
 	
 	public void m1() {
-		System.out.println("Orange");
+		System.out.println("Apple");
 	}
 	
 	public void m2() {
